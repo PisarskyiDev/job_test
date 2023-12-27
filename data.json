@@ -1,0 +1,14 @@
+[
+  {"pk": 1, "model": "main.SomeModel",
+   "fields": {"some_name": "Test1",
+              "some_value": 22}},
+  {"pk": 2, "model": "main.SomeModel",
+   "fields": {"some_name": "Test2",
+              "some_value": 21}},
+    {"pk": 3, "model": "main.SomeModel",
+   "fields": {"some_name": "Test3",
+              "some_value": 33}},
+    {"pk": 4, "model": "main.SomeModel",
+   "fields": {"some_name": "Test4",
+              "some_value": 42}}
+]
